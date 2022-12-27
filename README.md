@@ -1,3 +1,3 @@
 # Review-Scrapper
 
-Appplication Url :- https://reviewscrapper0777.herokuapp.com/
+Appplication Url :- https://red-secretary-axavo.ineuron.app:5000/
